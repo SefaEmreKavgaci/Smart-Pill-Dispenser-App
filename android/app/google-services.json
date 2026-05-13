@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3687122073",
+    "project_id": "kapsul-db9f7",
+    "storage_bucket": "kapsul-db9f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3687122073:android:b60ea45c478e18d7e6a408",
+        "android_client_info": {
+          "package_name": "com.example.ilac_kutusu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_bK2W7_rQgDry09DoWMKh1FP7_2F0ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

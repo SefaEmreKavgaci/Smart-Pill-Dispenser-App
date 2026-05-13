@@ -1,0 +1,13 @@
+.dart_tool/
+.idea/
+.vscode/
+build/
+linux/
+windows/
+macos/
+ios/
+android/
+.pub-cache/
+.pub/
+.env
+*.iml
